@@ -15,9 +15,20 @@ Sentiment Analysis AI is a project that utilizes machine learning to analyze the
 - Python 3.x
 - Pip (Python package installer)
 
-### Installation
 
-```bash
-git clone https://github.com/your-username/sentiment-analysis-ai.git
-cd sentiment-analysis-ai
-pip install -r requirements.txt
+#### Usage
+
+
+Training the Model
+Prepare your dataset in CSV format with columns for user input text and corresponding sentiments.
+
+Replace the sample dataset (train.csv) in the project directory with your custom dataset.
+
+
+
+#####  Contributions
+
+Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
+
+
+Pranav Hare
